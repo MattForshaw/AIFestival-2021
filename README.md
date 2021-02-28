@@ -2,7 +2,7 @@
 
 <img src="titleslide.png" alt="The Future of AI Skills" />
 
-Slide deck as [PDF](2021_AIFestival.pdf). [Transcript](2021_AIFestival_Transcript.md).
+Slide deck as [PDF](2021_AIFestival.pdf).
 
 ## Resources
 - [AI Data Specialist Apprenticeship](https://www.instituteforapprenticeships.org/apprenticeship-standards/artificial-intelligence-(ai)-data-specialist-v1-0)
